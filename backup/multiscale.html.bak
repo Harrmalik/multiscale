@@ -1,0 +1,65 @@
+<html>
+<head><title>IIMMM:multiscale</title></head>
+
+<center><h1> International Institude of Multiscale Materials Modeling </h1><br>
+        <h2> Multiscale Methods </h2></center>
+<hr>
+
+<h2>Contents</h2>
+ <a href="index.html">Home</a>&nbsp;&nbsp;&nbsp;&nbsp;
+ <a href="multiscale.html">Multiscale Methods</a>&nbsp;&nbsp;&nbsp;&nbsp;
+ <a href="apps.html">Applications</a>&nbsp;&nbsp;&nbsp;&nbsp;
+ <a href="Litt.html">Literature</a>&nbsp;&nbsp;&nbsp;&nbsp;
+ <a href="Down.html">Downloads</a>&nbsp;&nbsp;&nbsp;&nbsp;
+ <a href="contact.html">Contact</a>&nbsp;&nbsp;&nbsp;&nbsp;
+<hr>
+
+
+<body>
+<h2> Multiscale Methods </h2>
+There are various types of multiscale methods, etc.
+
+ <h3> Concurrent Multiscale Methods </h3>
+  <dl>
+   <dt> <b>PMAP</b> <dd> Particle-Based Multiscale Analysis Program. 
+                 This approach utilizes the <a href="http://people.alfred.edu/~fanjing/">GP method</a>
+		 by which classical molecular dynamics can be extended to a large material domain, it 
+		 also includes an option to couple these higher scale domains with an FEA mesh. 
+   <p>
+   <dt> <b>QC</b> <dd> Quasi Continuum method by Tadmore and Miller 
+                 (<a href="http://qcmethod.org/">QC</a>) 
+   <p>
+   <dt> <b>ESCM</b> <dd> Embedded Statistical Coupling Method developed by Saether and Yamakov;
+                 which uses a statistical approach to couple the MD domain with an FEA mesh.
+                 A technical report introduces the 
+		 <a href="http://ntrs.nasa.gov/search.jsp?R=20080031505">ESCM</a>.
+   <p>
+   <dt> <b>CADD</b> <dd> Coupled Atomistic Discrete Dislocation <br>
+                 Prof. Curtin collaborating with 
+		 <a href="http://lsms.epfl.ch/page-52155-en.html">LSMS.EPFL</a>
+		 to develop a 3D version of CADD.
+  </dl>
+ 
+ <h3> Hierarchical Multiscale Methods </h3>
+  <dl>
+   <dt> <b>FE<sup>2</sup></b> <dd> Used FEA to couple mesoscale to macroscale
+                 used to model damage evolution in ceramic or concrete materials.
+		 Currently being developed at <a href="http://lsms.epfl.ch/page-91014-en.html">EPFL</a>
+   <p>
+   <dt> <b>DDD</b> <dd> Discrete Dislocation Dynamics. This method averages out the bulk properties
+                 of crystalline materials treating only dislocations as important localized properties.
+		 For more detailed information check out the webpage for 
+                 <a href="http://www.dierk-raabe.com/ddd-discrete-dislocation-dynamics/">Dierk Raabe</a>
+		 
+  </dl>
+
+<hr>
+   <center>
+    <address>
+        <a href="contact.html">Contact</a>&nbsp;&nbsp;&nbsp;&nbsp; <br>
+	Last Updated: Sunday, May 10, 2015
+    </address>
+   </center>
+</body>
+
+</html>

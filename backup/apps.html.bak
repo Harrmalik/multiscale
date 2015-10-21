@@ -1,0 +1,56 @@
+<html>
+<head><title>IIMMM:apps</title></head>
+
+<center><h1> International Institude of Multiscale Materials Modeling </h1><br>
+        <h2> Potential and Current Applications </h2></center>
+<hr>
+
+<h2>Contents</h2>
+ <a href="index.html">Home</a>&nbsp;&nbsp;&nbsp;&nbsp;
+ <a href="multiscale.html">Multiscale Methods</a>&nbsp;&nbsp;&nbsp;&nbsp;
+ <a href="apps.html">Applications</a>&nbsp;&nbsp;&nbsp;&nbsp;
+ <a href="Litt.html">Literature</a>&nbsp;&nbsp;&nbsp;&nbsp;
+ <a href="Down.html">Downloads</a>&nbsp;&nbsp;&nbsp;&nbsp;
+ <a href="contact.html">Contact</a>&nbsp;&nbsp;&nbsp;&nbsp;
+<hr>
+
+
+<body>
+<h2> Potential and Current Applications </h2>
+There are various current and potential applications for multiscale analysis.
+Concurrent and Hierarchical Multiscale techniques are useful for different 
+applications. For specific application citations review the <a href="Litt.html">
+Literature</a> page.
+
+ <h3> Concurrent Multiscale Applications </h3>
+  <ul>
+    <li> To provide realistic boundary conditions to detailed nano scale 
+          phenomena.
+    <li> For developing atomistic-based cohesive zone models for meso-macro 
+          scale crack propagation.
+    <li> Investigation of Dislocation nucleation mechanisms
+    <li> Origins of plasticity mechanisms.
+    <li> Nano-indentation and scratch test modeling.
+  </ul>
+
+ <h3> Hierarchical Multiscale Applications </h3>
+  <ul>
+    <li> Modeling atomistically derived bulk behavior at meso and macro scales. 
+    <li> Meso-scale dislocation dynamics in large volumes.
+    <li> Material response to high speed impaction.
+    <li> Polycrystalline material behavior including the grain boundary phenomena.
+  </ul>
+
+In the comming years, there will undoubtably be more applications to which 
+multiscale analysis may lend itself.
+
+<hr>
+   <center>
+    <address>
+        <a href="contact.html">Contact</a>&nbsp;&nbsp;&nbsp;&nbsp; <br>
+	Last Updated: Sunday, May 10, 2015
+    </address>
+   </center>
+</body>
+
+</html>

@@ -1,0 +1,62 @@
+<html>
+<head><title>IIMMM | CAC</title></head>
+
+<center><h1> International Institute of Multiscale Materials Modeling </h1><br>
+        <h2> Concurrent Atomistic-Continuum Method </h2></center>
+<hr>
+
+Back to <a href="../methods.html">Multiscale Methods</a>
+
+<body>
+<h3>Introduction</h3>
+Most partitioned-domain methods treat the continuum domain such that lattice dislocations are either implemented via elastic constitutive relations, or not permitted at all. This motivated development of a new multiscale method called the concurrent atomistic-continuum (CAC) method that admits displacement discontinuities between elements in the continuum domain. Within each element, lattice defects are not allowed and the displacement field has C<sup>1</sup> continuity. Between elements, however, neither displacement continuity nor strain compatibility is required.
+<p>
+The theoretical foundation of the CAC method is the atomistic field theory (AFT). It is rooted in micromorphic theory, where a local density function is used to connect the micromorphic theory and molecular dynamics, in which a crystalline material is viewed as a continuous collection of lattice points, while embedded within each point is a unit cell with a group of discrete atoms (<a href="#chen1">Chen, 2009</a>). The same balance equations for both fully resolved atomistic and coarse-grained continuum domains are employed to compute the properties of general crystals. In the continuum domain, the interatomic potential serves as the only constitutive relation. 
+
+<h3>History</h3>
+<dl>
+<dt>2003</dt>
+<dd>Proposed AFT, laid the theoretical foundation of the CAC methods.</dd>
+<dt>2004</dt>
+<dd>Began the implementation of the CAC code at George Washington University.</dd>
+<dt>2009</dt>
+<dd>Employ the discontinous elements to accomondate defects in the continuum domain.</dd>
+<dt>2015</dt>
+<dd>Proposed a quasistatic implementation of CAC (<a href="#xu1">Xu et al., 2015</a>).</dd>
+</dl>
+
+<h3>Features</h3>
+<ol>
+<li>Use rhombohedral elements whose surfaces correspond to slip planes in FCC or BCC lattices.</li>
+<li>Accommodate planar dislocations and intrinsic stacking faults in the continuum domain.</li>
+<li>No need of <i>ad hoc</i> constitutive relations.</li>
+<li>Coarse-graining efficiency varies from 50 to 150, depending on element sizes.</li>
+</ol>
+
+<h3>Applications</h3>
+<ol>
+<li>Dislocation nucleation from notched specimen</li>
+<li>Dislocation-void interaction</li>
+<li>Brittle and ductile fracture</li>
+<li>Dislocation-grain boundary interaction</li>
+</ol>
+
+<h3>References</h3>
+<ol>
+<li>Y. Chen, Reformulation of microscopic balance equations for multiscale materials modeling, J. Chem. Phys., 130 (2009) 134706<a name="chen1"></a></li>
+<li>S. Xu, R. Che, L. Xiong, Y. Chen, D.L. McDowell, A quasistatic implementation of the concurrent atomistic-continuum method for FCC crystals, Int. J. Plast., 72 (2015) 91--126<a name="xu1"></a></li>
+</ol>
+
+<h3>Further Reading</h3>
+<ol>
+<li><a href="http://web.mae.ufl.edu/chenlab/">Atomistic and Multiscale Mechanics
+Laboratory</a> at University of Florida</li>
+<li><a href="http://www.aere.iastate.edu/department-overview/faculty/liming-xiong/">Prof. Liming Xiong's group</a> at Iowa State University</li>
+</ol>
+
+<div id="footer">
+	<p>&copy; IIMMM. All rights reserved.</p>
+</div>
+</body>
+
+</html>

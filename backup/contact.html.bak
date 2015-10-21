@@ -1,0 +1,55 @@
+<html>
+<head><title>IIMMM:contact</title></head>
+
+<center><h1> International Institude of Multiscale Materials Modeling </h1><br>
+        <h2> Contact Information</h2></center>
+<hr>
+
+<h2>Contents</h2>
+ <a href="index.html">Home</a>&nbsp;&nbsp;&nbsp;&nbsp;
+ <a href="multiscale.html">Multiscale Methods</a>&nbsp;&nbsp;&nbsp;&nbsp;
+ <a href="apps.html">Applications</a>&nbsp;&nbsp;&nbsp;&nbsp;
+ <a href="Litt.html">Literature</a>&nbsp;&nbsp;&nbsp;&nbsp;
+ <a href="Down.html">Downloads</a>&nbsp;&nbsp;&nbsp;&nbsp;
+ <a href="contact.html">Contact</a>&nbsp;&nbsp;&nbsp;&nbsp;
+<hr>
+
+
+<body>
+<h2> Contact Information </h2>
+ <dl>
+ <dt><b>Dr. Jinghong Fan</b> 
+    <dd>Founder and Contributor <br>
+    <i>Professor of Mechanical Engineering<br>
+    Alfred University, <br>
+    Alfred, NY, 14802</i> <br>
+    email: <a href="mailto:fanjing@alfred.edu?subject=IIMMM">
+    fanjing@alfred.edu</a> 
+ <p>
+ <dt><b>Mr. Ross J. Stewart</b> 
+    <dd>Contributor and Technical Advisor<br>
+    <i>Process Modeling Engineer <br>
+    Corning Inc., <br>
+    Corning, NY, 14831</i> <br>
+    email: <a href="mailto:rossjohnsonstewart@gmail.com?subject=IIMMM">
+    rossjohnsonstewart@gmail.com</a> 
+ <p>
+ <dt><b>Dr. Taolong Xu</b> 
+    <dd>Contributor <br>
+    <i>Southwest Petroleum University, <br>
+    Chengdu, P.R. China, 610500</i> <br>
+    email: <a href="mailto:swpuxtl@gmail.com?subject=IIMMM">
+    swpuxtl@gmail.com</a>
+ <p>
+ </dl>
+
+<hr>
+   <center>
+    <address>
+      <a href="contact.html">Contact us</a>&nbsp;&nbsp;&nbsp;&nbsp;  <br>
+      Last updated: Sunday, May 10, 2015
+    </address>
+   </center>
+</body>
+
+</html>

@@ -1,0 +1,39 @@
+<html>
+<head><title>IIMMM:Litt</title></head>
+
+<center><h1> International Institude of Multiscale Materials Modeling </h1><br>
+        <h2> Literature </h2></center>
+<hr>
+
+<h2>Contents</h2>
+ <a href="index.html">Home</a>&nbsp;&nbsp;&nbsp;&nbsp;
+ <a href="multiscale.html">Multiscale Methods</a>&nbsp;&nbsp;&nbsp;&nbsp;
+ <a href="apps.html">Applications</a>&nbsp;&nbsp;&nbsp;&nbsp;
+ <a href="Litt.html">Literature</a>&nbsp;&nbsp;&nbsp;&nbsp;
+ <a href="Down.html">Downloads</a>&nbsp;&nbsp;&nbsp;&nbsp;
+ <a href="contact.html">Contact</a>&nbsp;&nbsp;&nbsp;&nbsp;
+<hr>
+
+
+<body>
+<h2> Literature </h2>
+Numerous papers have been written on multiscale analysis, these are a select few for 
+ introductory purposes.
+
+<h2> External Links </h2>
+View the various <a href="http://lsms.epfl.ch/page-50952-en.html">multiscale methods</a> 
+in development from the Computational Solid Mechanics Laboratory 
+(<a href="http://lsms.epfl.ch/page-8904.html">LSMS</a>, 
+Laboratoire de Simulation en M&eacute;canique des Solides) a part of 
+&Eacute;cole Polytechnique F&eacute;d&eacute;rale de Lausanne (<a href="http://www.epfl.ch/">EPFL</a>)
+
+<hr>
+   <center>
+    <address>
+        <a href="contact.html">Contact</a>&nbsp;&nbsp;&nbsp;&nbsp; <br>
+	Last Updated: Sunday, May 10, 2015
+    </address>
+   </center>
+</body>
+
+</html>

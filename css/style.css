@@ -7,6 +7,13 @@ header.row.sixteen.wide.column {
    padding: 0;
 }
 
+h1 {
+    position: absolute;
+    top: 0;
+    left: 30%;
+    z-index: 1;
+}
+
 #menu {
    margin: 0;
    width: 100%;

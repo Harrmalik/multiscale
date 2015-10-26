@@ -8,33 +8,17 @@
        <div class="item">
           <a class="item" href="#">CAC</a>
           <a class="item" href="#">CADD</a>
-          <a class="item" href="#">ESCM</a>
-          <a class="item" href="#">PMAP</a>
-          <a class="item" href="#">QC</a>
-          <a class="item" href="#">DDD</a>
           <a class="item" href="#">QC</a>
        </div>
       </div>
       <div class="ui dropdown item">
-       Codes
+       Downloads
        <div class="item">
-          <a class="item" href="#">User Manual</a>
+          <a class="item" href="#">(PMAP) User Manual</a>
        </div>
       </div>
       <a class="item">
-       Application
-      </a>
-      <a class="item">
        FAQ
-      </a>
-      <a class="item">
-       Contact
-      </a>
-      <a class="item">
-       Downloads
-      </a>
-      <a class="item">
-       About us
       </a>
    </nav>
 </aside>

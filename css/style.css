@@ -1,10 +1,23 @@
 body.ui.grid {
    padding: 0;
    margin: 0;
+   font-size: 18px;
+   line-height: 140%;
+
+      background-color: #2185D0;
 }
+
 header.row.sixteen.wide.column {
    margin: 0;
    padding: 0;
+   background-color: #fff;
+}
+
+h1 {
+    position: absolute;
+    top: 0;
+    left: 30%;
+    z-index: 1;
 }
 
 #menu {
@@ -52,11 +65,18 @@ article#content {
    padding: 3em !important;
 }
 
+section div article.eight.wide.column.splash {
+   padding: 0 ;
+}
+
+section div article.eight.wide.column.splash img {
+   min-width: 300px;
+}
+
 footer.row {
    position: absolute;
    bottom: 0;
    padding: 0 !important;
-   max-height: 130px;
    text-align: center;
 }
 

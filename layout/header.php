@@ -11,14 +11,16 @@
 
 <body class="ui grid">
    <header class="row sixteen wide column">
+      <h1 class="ui header">International Institute of Multiscale Materials Modeling</h1>
          <nav id="menu" class="ui blue secondary pointing menu">
             <h2 class="ui item header">
-               <img src="iimmm_logo.jpg" alt="International Institute of Multiscale Materials Modeling Logo" class="ui image Medium" />
+               <img src="/iimmm/iimmm_logo.jpg" alt="International Institute of Multiscale Materials Modeling Logo" class="ui image Medium" />
             </h2>
-           <a class="item active" href="index.php">Home</a>
-           <a class="item" href="methods.php">Methods</a>
-           <a class="item" href="codes.php">Downloads</a>
-           <a class="item" href="application.php">Contact</a>
+           <a class="item active" href="/iimmm/index.php"><h3 class="ui header">Home</h3></a>
+           <a class="item" href="/iimmm/partials/methods.php"><h3 class="ui header">Methods</h3></a>
+           <a class="item" href="/iimmm/partials/codes.php"><h3 class="ui header">Downloads</h3></a>
+           <a class="item" href="/iimmm/partials/application.php"><h3 class="ui header">Contact</h3></a>
+           <a class="item" href="/iimmm/partials/application.php"><h3 class="ui header">Registration</h3></a>
         </nav>
 
        <nav id='m_nav' class="ui inverted menu">

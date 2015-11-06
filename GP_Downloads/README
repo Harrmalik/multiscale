@@ -1,0 +1,6 @@
+4 Nov 2015
+
+The Mater_Model programs are used to generate models.
+Included in this directory are version 7&8- both the source code (f90 files) and the pre-compiled executables.
+
+Multi-Input57f19.exe is a recent version of the PMAP software enabling the user to perform their own GP simulations.

@@ -20,6 +20,7 @@
            <a class="item" href="/partials/methods.php"><h3 class="ui header">Methods</h3></a>
            <a class="item" href="/partials/downloads.php"><h3 class="ui header">Downloads</h3></a>
            <a class="item" href="/partials/contact.php"><h3 class="ui header">Contact</h3></a>
+           <a class="item green" href="/partials/news.php"><h3 class="ui header">News</h3></a>
         </nav>
 
        <nav id='m_nav' class="ui inverted menu">

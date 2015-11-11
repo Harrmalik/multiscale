@@ -31,6 +31,18 @@
                 <label>Email</label>
                 <input name="email" type="email" placeholder="name@email.com">
               </div>
+              
+              <div class="fields two">
+                <div class="field">
+                  <label for="phone">Phone</label>
+                  <input name="phone" type="text" placeholder="(999) 999-999">
+                </div>
+      
+                <div class="field">
+                  <label for="affiliation">Affiliation</label>
+                  <input name="affiliation" type="text" placeholder="College Student">
+                </div>
+              </div>
       
               <div class="fields">
                 <div class="field sixteen wide">

@@ -6,7 +6,7 @@
          <article id="content" class="sixteen wide mobile twelve wide tablet twelve wide computer column">
             <h2 class="ui header">Concurrent Multiscale Methods of Modeling and Simulation</h2>
             <div class="ui list">
-              <div class="item"><span class="ui header blue">QC</span> Short for quasi-continuum method. It uses Cauchy-Born rule for the
+              <div class="item"><span class="ui header blue"><a href="../methods/qc.php">QC</a></span> Short for quasi-continuum method. It uses Cauchy-Born rule for the
                  first time to calculate the strain energy density W in the FE region, thus both atomistic and 
                  continuum region can be treated with atomic potential function.  It was proposed in 1996 with a 
                  lot of applications.  
@@ -15,7 +15,7 @@
               (DD) method. Based on the need to create the force boundary by a superposition process, the method is force-based multiscale 
               analysis. The focus on dislocation of the CADD method necessitates the use of linear elasticity.   
               </div>
-              <div class="item"><span class="ui header blue">CAC</span>  which is proposed to improve
+              <div class="item"><span class="ui header blue"><a href="../methods/cac.php">CAC</a></span>  which is proposed to improve
               the simulation of material defects. Within each element, lattice defects are not allowed. However, between elements, neither 
               displacement continuity nor strain compatibility is requiblue. In mathematical community, the same CAC terminology is used which
               investigates convergence theory of domain truncation, etc.
@@ -24,7 +24,7 @@
               averaging over selected time interval and volume in atomistic subdomains at the MD/FE interface to determine nodal displacement
               for the continuum FE domain.
               </div>
-              <div class="item"><span class="ui header blue">GP</span> Short for generalized particle methods. It consists of different scales
+              <div class="item"><span class="ui header blue"><a href="../methods/gp.php">GP</a></span> Short for generalized particle methods. It consists of different scales
               of particle domains to keep material structure and numerical algorithm the same as atomic scale. Both bottom-up and top-down scale
               transition are through atoms/particles in NLC. FE mesh only appears for large-size models in the far remote field from atomistic 
               scale to avoid ghost force. (NLC:  Neighbor Link Cells)  
